@@ -12,4 +12,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatashiFuzzy&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WatashiFuzzy&theme=radical)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=00FFFF&center=true&random=false&width=435&lines=Watashifuzzy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFFF&center=true&random=false&width=435&lines=Watashifuzzy)](https://git.io/typing-svg)
