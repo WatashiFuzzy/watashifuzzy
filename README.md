@@ -7,8 +7,8 @@
 
 ### 📊 GitHub Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhmc2007&show_icons=true&theme=radical)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=WatashiFuzzy&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhmc2007&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatashiFuzzy&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minhmc2007&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WatashiFuzzy&theme=radical)
